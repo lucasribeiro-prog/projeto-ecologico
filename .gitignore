@@ -1,0 +1,5 @@
+# Ignorar arquivos temporários
+*.tmp
+
+# Ignorar a pasta tmp
+tmp/
